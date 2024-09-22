@@ -1,4 +1,4 @@
-**Asteroid Shooter with Reinforcement Learning**
+# **Asteroid Shooter with Reinforcement Learning**
 
 Welcome to **ArcadeRL**, an arcade-style asteroid shooting game powered by reinforcement learning! This project combines the classic mechanics of arcade space shooters with a reinforcement learning (RL) agent that learns to navigate and destroy asteroids. The AI agent is trained using Deep Q-Learning.
 
